@@ -1,86 +1,43 @@
-# YOUR 42BADGE - 42 badge
-Ever wanted to show your progress in 42 cursus to the world? Your badge is a beautiful, quick way to show-off what you've built. With the new badge generator, you can easily display your progress and keep up with visitors/friends.
 
-You can use the following [link](https://badge.mediaplus.ma) to generate your own 42badge just by entering your intra username and choise a badge theme.
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/70/ca/c7/70cac7dc3ad10d394e9b3aaa6ed9245d.gif"/>
+</div>
 
-or you can just change username in the link :
-
-```
-[![<ahaloui>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
-```
-
-and choose a badge theme between this `darkblue`, `darkgray`, `black`, `honeytones`, `kettlebells`, `landscapes`, `starryblue`, `binary`, `greenbinary`, `water`, `colorfulwaves`, `levi` :
-
-```
-[![ahaloui>'s 42 stats](https://badge.mediaplus.ma/<theme>/ahaloui>)](https://github.com/oakoudad/badge42)
-```
-
-example :
-
-[![oakoudad's 42 stats](https://badge.mediaplus.ma/darkblue/oakoudad)](https://github.com/oakoudad/badge42)
-
-### Darkblue :
-<figure>
-  <img src="./example/darkblue.svg" alt="Darkblue" title="Darkblue" />
-</figure>
-
-### Darkgray :
-<figure>
-  <img src="./example/darkgray.svg" alt="Darkgray" title="Darkgray" />
-</figure>
-
-### Black :
-<figure>
-  <img src="./example/black.svg" alt="Black" title="Black" />
-</figure>
-
-### Honeytones :
-<figure>
-  <img src="./example/honeytones.svg" alt="honeytones" title="Honeytones" />
-</figure>
-
-### Kettlebells :
-<figure>
-  <img src="./example/kettlebells.svg" alt="kettlebells" title="Kettlebells" />
-</figure>
-
-### Landscapes :
-<figure>
-  <img src="./example/landscapes.svg" alt="Landscapes" title="Landscapes" />
-</figure>
-
-### Starryblue :
-<figure>
-  <img src="./example/starryblue.svg" alt="Starryblue" title="Starryblue" />
-</figure>
-
-<h1>Animated</h1>
-
-### Binary :
-<figure>
-  <img src="./example/binary.svg" alt="Binary" title="Binary" />
-</figure>
-
-### Green binary :
-<figure>
-  <img src="./example/greenbinary.svg" alt="Green binary" title="Green binary" />
-</figure>
-
-### Water :
-<figure>
-  <img src="./example/water.svg" alt="Water" title="Water" />
-</figure>
-
-### Colorful waves :
-<figure>
-  <img src="./example/colorfulwaves.svg" alt="Colorful waves" title="Colorful waves" />
-</figure>
-
-### Levi :
-<figure>
-  <img src="./example/levi.svg" alt="Levi" title="Levi" />
-</figure>
+## 🚀 About Me
+I am a punctual person, with a lot of spirit and motivation to work on new
+projects. I give it a lot of time and effort. Always open on taking new
+informations and formations, as well as doing my best to complete my
+projects.
 
 
+# Hi, I'm Mohamed! 👋
+ <p align="center">
+<a href="https://profile.intra.42.fr"><img src="https://badge.mediaplus.ma/red/mbabela" alt="mbabela's 42 stats" /></a>
 
-<img src="./example/darkblue.svg" alt="Darkblue" title="Darkblue" /><img src="./example/darkgray.svg" alt="Darkgray" title="Darkgray" /><img src="./example/black.svg" alt="Black" title="Black" /><img src="./example/honeytones.svg" alt="honeytones" title="Honeytones" />
+
+## 🔗 Links
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently a 1337's student 
+
+🧠 I'm currently learning front, back end web dev
+
+📫 How to reach me <mohamadbabela@gmail.com>
+
+⚡️ Fun fact : i like start working at 5 am 
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naahio&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</p>
